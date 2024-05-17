@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  I am a beginner, about to create a resume website.
+  I am a beginner, about to create some stuff.
 </div>
 
 <br />

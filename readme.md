@@ -111,4 +111,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| How to Create a Responsive Resume CV Website using HTML and CSS | search for samples from youtube | [trykolang.com](https://www.youtube.com/watch?v=lTqw_op6anw&list=PLDoKUoRG8ZY-hPd10hK8ygn9YO4Dxm6n-&index=2) |
+| Making Resume with HTML | Tagalog | have some ideas on how to create an html resume | https://www.youtube.com/watch?v=GhGSjbsElIg&list=PLDoKUoRG8ZY-hPd10hK8ygn9YO4Dxm6n-&index=1 |

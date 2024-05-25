@@ -4,7 +4,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/
+MathChewDoor/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="[nyebe_white.pn](https://github.com/MathChewDoor/WD-SEATWORK-2-TC03/blob/main/assets/img/nyebe_white.png)" alt="Francis" width="130" height="100">
   </a>

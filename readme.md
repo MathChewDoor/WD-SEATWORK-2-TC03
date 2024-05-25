@@ -113,3 +113,4 @@ WD-ProjectName
 |-|-|-|
 | How to Create a Responsive Resume CV Website using HTML and CSS | search for samples from youtube |https://www.youtube.com/watch?v=lTqw_op6anw&list=PLDoKUoRG8ZY-hPd10hK8ygn9YO4Dxm6n-&index=2 |
 | Making Resume with HTML Tagalog | have some ideas on how to create an html resume | https://www.youtube.com/watch?v=GhGSjbsElIg&list=PLDoKUoRG8ZY-hPd10hK8ygn9YO4Dxm6n-&index=1 |
+| Learn CSS in 20 Minutes | use some examples and practices for css styling | https://www.youtube.com/watch?v=1PnVor36_40 |

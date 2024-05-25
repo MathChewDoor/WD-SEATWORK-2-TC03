@@ -9,12 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Projects</h3>
+  <h3 align="center">Online Resume</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  I am a beginner, about to create some stuff.
-</div>
+Online Resume using .html and .css</div>
 
 <br />
 
@@ -61,11 +60,8 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
-  (The Project is an online resume)
 - Whats the purpose
-  Create an online resume using vscode(.html, .css)
 - What are key components
-  The header sections, introduction, education and skills within the program, HTML Structure, and CSS styling.
 - What technology used and how it is used
   Github for repository hosting and VSCode for code editing, extensions, and development.
 

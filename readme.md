@@ -61,16 +61,20 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  The Project is an online resume
 - Whats the purpose
+  Create an online resume using vscode(.html, .css)
 - What are key components
+  The header sections, introduction, education and skills within the program, HTML Structure, and CSS styling.
 - What technology used and how it is used
+  Github for repository hosting and VSCode for code editing, extensions, and development.
+
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- header sections
+- introduction
+- HTML Structure
+- CSS styling
 
 ### Technology
 <!-- TODO: List of Technology Used -->

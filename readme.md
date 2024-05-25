@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="nyebe_white.png" alt="Francis" width="130" height="100">
+    <img src="[nyebe_white.pn](https://github.com/MathChewDoor/WD-SEATWORK-2-TC03/blob/main/assets/img/nyebe_white.png)" alt="Francis" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Online Resume</h3>

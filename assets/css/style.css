@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.profile {
+    text-align: center; 
+}
+
+.profile img {
+    width: 200px; 
+    height: auto; 
+    border-radius: 50%; 
+    margin-bottom: 20px; 
+}
+
+.profile h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.profile p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e2e2e2;
+    margin-bottom: 5px;
+    padding: 10px;
+    font-size: 1em;
+    color: #333;
+}
+
+ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+ul li ul {
+    background: #f9f9f9;
+    margin-top: 5px;
+    padding-left: 20px;
+}
